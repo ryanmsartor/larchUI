@@ -1,5 +1,5 @@
-LudicrousN64-169screensize = "640x360"
-LudicrousN64-43screensize = "640x480"
+LudicrousN64-169screensize = "426x240"
+LudicrousN64-43screensize = "400x300"
 LudicrousN64-aspect = "4:3"
 LudicrousN64-astick-deadzone = "15"
 LudicrousN64-astick-sensitivity = "100"
