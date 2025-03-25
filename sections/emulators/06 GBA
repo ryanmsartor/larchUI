@@ -3,6 +3,6 @@ backdrop=skin:wallpapers/GBA.png
 exec=/mnt/extsd/retroarch/retroarch
 volume=1
 selectorbrowser=false
-params=-v -c /mnt/extsd/retroarch/retroarch.cfg -L /mnt/extsd/retroarch/cores/mgba_libretro.so
+params=-v -c /mnt/extsd/retroarch/retroarch.cfg -L /mnt/extsd/retroarch/cores/gpsp_libretro.so
 selectordir=/mnt/extsd/ROMs/GBA
 wrapper=true
